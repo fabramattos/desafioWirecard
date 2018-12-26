@@ -1,3 +1,3 @@
 # desafioWirecard
 
-Incompleto e com erros.
+Incompleto.

@@ -1,0 +1,1 @@
+insert into Buyer (id, name, email, cpf) values (null, 'Usuario Um', 'usuario.um@email.com', 12312312300);
